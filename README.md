@@ -1,4 +1,5 @@
 # Aroma-panda<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="ru">
 <head>
     <meta charset="UTF-8">
@@ -746,8 +747,8 @@
             </div>
             <div class="footer-column">
                 <h3>Контакты</h3>
-                <p><i class="fas fa-map-marker-alt"></i> г. Москва, ул. Ароматная, 15</p>
-                <p><i class="fas fa-phone"></i> +7 (999) 123-45-67</p>
+                <p><i class="fas fa-map-marker-alt"></i> г. Балашиха Свердлова 10, 15</p>
+                <p><i class="fas fa-phone"></i> +7 (906) 044-21-13</p>
                 <p><i class="fas fa-envelope"></i> info@panda-aroma.ru</p>
             </div>
             <div class="footer-column">
